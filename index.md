@@ -12,6 +12,7 @@ Graduate student @Central South University, Changsha, Hunan
 ## 💼 CV
 
 2016-2020 | Material Science and Engineering, CSU
+
 2020-     | Computer Science and Engineering, CSU
 
 
