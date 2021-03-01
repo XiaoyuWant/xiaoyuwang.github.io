@@ -11,15 +11,15 @@ Graduate student @Central South University, Changsha, Hunan
 
 ## 💼 CV
 
-2016-2020 | Material Science and Engineering, CSU
+- 2016-2020 | Material Science and Engineering, CSU
 
-2020-     | Computer Science and Engineering, CSU
+- 2020-     | Computer Science and Engineering, CSU
 
 
 ## ✉ 联系方式
 
-E-mail: [xiaoyuwang@csu.edu.cn](xiaoyuwang@csu.edu.cn)
-微博： [二次电子崩](https://weibo.com/u/6463121798)
+- E-mail: [xiaoyuwang@csu.edu.cn](xiaoyuwang@csu.edu.cn)
+- 微博： [二次电子崩](https://weibo.com/u/6463121798)
 
 
 
