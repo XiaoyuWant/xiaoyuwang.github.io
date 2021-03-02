@@ -22,7 +22,7 @@ Graduate student @Central South University, Changsha, Hunan
 
 ## ✉ 联系方式
 
-- E-mail: [xiaoyuwang@csu.edu.cn](xiaoyuwang@csu.edu.cn)
+- E-mail: xiaoyuwang@csu.edu.cn
 
 - 微博： [二次电子崩](https://weibo.com/u/6463121798)
 
