@@ -5,24 +5,25 @@ Graduate student @Central South University, Changsha, Hunan
 
 ## 🍟Blogs
 
-- [How To Use Vscode To Edit Your Code On Sever?](https://github.com/XiaoyuWant/xiaoyuwant.github.io/blob/main/blogs/How_To_Use_Vscode_To_Edit_Your_Code_On_Sever.md)
+https://xiaoyuwant.github.io/note/
 
-- todo
-
-- todo
 
 ## 💼 CV
 
 - 2016-2020  Material Science and Engineering, CSU
 
-- 2020-      Computer Science and Engineering, CSU
+- 2020-now      Computer Science and Engineering, CSU
 
-
+## 技能
+- Python & Pytorch
+- Java & JVM
+- MySQL & Redis
+- SpringBoot & Mybatis & SpringCloud
 
 
 ## ✉ 联系方式
 
-- E-mail: xiaoyuwang@csu.edu.cn
+- E-mail: xiaoyuwant@gmail.com
 
 
 ---
