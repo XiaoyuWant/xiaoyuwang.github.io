@@ -10,9 +10,9 @@ https://xiaoyuwant.github.io/note/
 
 ## 💼 CV
 
-- 2016-2020  Material Science and Engineering, CSU
+- 2016-2020, Material Science and Engineering, CSU
 
-- 2020-now      Computer Science and Engineering, CSU
+- 2020-now, Computer Science and Engineering, CSU
 
 ## 技能
 - Python & Pytorch
@@ -23,7 +23,7 @@ https://xiaoyuwant.github.io/note/
 
 ## ✉ 联系方式
 
-- E-mail: xiaoyuwant@gmail.com
+- E-mail: `xiaoyuwant@gmail.com`
 
 
 ---
